@@ -1,3 +1,4 @@
 # Rafael Rodrigues de Oliveira
 
 - uso o github como plataforma para compartilhar meus prijetos feitos no p5.js
+- uso o github como apoio aos meus futuros projetos no p5.js
