@@ -1,4 +1,3 @@
-# Rafael Negrinho
- dou a bunda pra sarinha
-  - dou memo
-  - a
+# Rafael Rodrigues de Oliveira
+
+- uso o github como plataforma para compartilhar meus prijetos feitos no p5.js
